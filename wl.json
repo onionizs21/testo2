@@ -1,0 +1,14 @@
+```
+{
+    "whitelist": [
+        {
+            "userId": 1,
+        },
+    ],
+    "blacklist": [
+        {
+            "userId": 1,
+        }
+    ]
+}
+```
