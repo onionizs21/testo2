@@ -1,12 +1,15 @@
 {
     "whitelist": [
         {
-            "userId": 8527460114
+            "userId": 2656352954
         },
+        {
+            "userId": 8527460114
+        }
     ],
     "blacklist": [
         {
-            "userId": 1,
+            "userId": 1
         }
     ]
 }
